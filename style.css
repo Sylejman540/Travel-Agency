@@ -18,10 +18,13 @@
 }
 
 .banner img{
-    margin-left: 10px;
     position: relative;
 }
 
+.banner-image{
+    display: flex;
+    justify-content: center;
+}
 
 .border-banner{
     position: absolute;
